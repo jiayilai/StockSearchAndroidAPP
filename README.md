@@ -16,15 +16,10 @@ It is a android APP that allows users to search for stock information and displa
 7. Facebook button
 
 ### Screen Shots
-<span>
-<img src="readme_img/inputbox.png" alt="Drawing" style="width: 200px;"/>
-<img src="readme_img/current.png" alt="Drawing" style="width: 200px;"/>
-<img src="readme_img/historical.png" alt="Drawing" style="width: 200px;"/>
-</span>
-<span>
-<img src="readme_img/facebook.png" alt="Drawing" style="width: 200px;"/>
-<img src="readme_img/news.png" alt="Drawing" style="width: 200px;"/>
-</span>
+
+<img src="readme_img/inputbox.png" alt="Drawing" style="width: 200px;"/><img src="readme_img/current.png" alt="Drawing" style="width: 200px;"/><img src="readme_img/historical.png" alt="Drawing" style="width: 200px;"/>
+<img src="readme_img/facebook.png" alt="Drawing" style="width: 200px;"/><img src="readme_img/news.png" alt="Drawing" style="width: 200px;"/>
+
 
 
 
