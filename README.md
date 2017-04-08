@@ -17,8 +17,9 @@ It is a android APP that allows users to search for stock information and displa
 
 ### Screen Shots
 
-<img src="readme_img/inputbox.png" alt="Drawing" style="width: 200px;"/><img src="readme_img/current.png" alt="Drawing" style="width: 200px;"/><img src="readme_img/historical.png" alt="Drawing" style="width: 200px;"/>
-<img src="readme_img/facebook.png" alt="Drawing" style="width: 200px;"/><img src="readme_img/news.png" alt="Drawing" style="width: 200px;"/>
+<img src="readme_img/inputbox.png" alt="Drawing" style="width: 250px;"/><img src="readme_img/current.png" alt="Drawing" style="width: 250px;"/>
+<img src="readme_img/historical.png" alt="Drawing" style="width: 250px;"/><img src="readme_img/facebook.png" alt="Drawing" style="width: 250px;"/>
+<img src="readme_img/news.png" alt="Drawing" style="width: 250px;"/>
 
 
 
