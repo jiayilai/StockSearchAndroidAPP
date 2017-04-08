@@ -1,0 +1,15 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="Symbol">Stock Name/Symbol</string>
+    <string name="clear">CLEAR</string>
+    <string name="quote">GET QUOTE</string>
+    <string name="refresh_text">Auto Refresh</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_activity_second">ResultActivity</string>
+    <string name="app_name">Stock Market Viewer</string>
+    <string name="search_form_lable">Stock Name/Symbol</string>
+    <string name="clear_button">CLEAR</string>
+    <string name="get_quote_button">GET QUOTE</string>
+    <string name="left_arrow">←</string>
+    <string name="facebook_app_id">925243917601275</string>
+</resources>
